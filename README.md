@@ -1,0 +1,1 @@
+This is Maximorte's first git project!
